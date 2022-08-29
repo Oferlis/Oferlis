@@ -1,4 +1,4 @@
-### Hi there 👋
+### Hello there 👋
 
 I'm Ofer, an Full-stack developer, passionate about new technologies and learning new skills!
 
