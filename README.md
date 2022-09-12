@@ -1,6 +1,6 @@
 ## Hello there 👋
 
-I'm Ofer, an Full-stack developer, passionate about new technologies and learning new skills!
+I'm Ofer, a Full-stack developer, passionate about new technologies and learning new skills!
 
 - 🔭 I’m currently working at Kyndryl Israel
 - 🌱 I’m currently learning React and open-source contributing
