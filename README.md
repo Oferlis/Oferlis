@@ -6,9 +6,11 @@ I'm Ofer, a Full-stack developer, passionate about new technologies and learning
 - 🌱 I’m currently learning React and open-source contributing
 - 👯 I’m looking to collaborate on ANYTHING
 - 📫 How to reach me: Github/LinkedIn
-- ⚡ Fun fact: I'm a HUGE Star Wars fan 
+- ⚡ Fun fact: I'm a HUGE Star Wars fan
 
-### Technologies I code with:
+### Visit my portfolio site https://oferlis.github.io/portfolio-website/ (Currently in developement 🚧)
+
+## Technologies I code with:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
 ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
