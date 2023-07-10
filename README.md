@@ -8,7 +8,8 @@ I'm Ofer, a Full-stack developer, passionate about new technologies and learning
 - 📫 How to reach me: Github/LinkedIn
 - ⚡ Fun fact: I'm a HUGE Star Wars fan
 
-### Visit my portfolio site https://oferlis.github.io/portfolio-website/ (Currently in developement 🚧)
+### Visit my portfolio site https://oferlis.github.io/portfolio-website/ (Currently in development 🚧)
+### dev.to: https://dev.to/oferlis
 
 ## Technologies I code with:
 
