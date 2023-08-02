@@ -11,6 +11,14 @@ I'm Ofer, a Full-stack developer, passionate about new technologies and learning
 ### Visit my portfolio site https://oferlis.github.io/portfolio-website/ (Currently in development 🚧)
 ### dev.to: https://dev.to/oferlis
 
+![](https://komarev.com/ghpvc/?username=Oferlis)
+
+![Ofer's Stats](https://github-readme-stats.vercel.app/api?username=Oferlis&theme=vue-dark&show_icons=true&hide_border=true&count_private=true)
+
+![Ofer's Streak](https://github-readme-streak-stats.herokuapp.com/?user=Oferlis&theme=vue-dark&hide_border=true)
+
+![Ofer's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Oferlis&theme=vue-dark&show_icons=true&hide_border=true&layout=compact)
+
 ## Technologies I code with:
 
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
