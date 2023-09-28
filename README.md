@@ -3,7 +3,7 @@
 I'm Ofer, a Full-stack developer, passionate about new technologies and learning new skills!
 
 - 🔭 I work at Kyndryl Israel
-- 🌱 I’m currently learning React and open-source contributing
+- 🌱 I’m currently developing my own project and contributing to open-source
 - 👯 I’m looking to collaborate on ANYTHING
 - 📫 How to reach me: Github/LinkedIn
 - ⚡ Fun fact: I'm a HUGE Star Wars fan
